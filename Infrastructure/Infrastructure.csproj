@@ -40,15 +40,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aquarium\Aquarium.cs" />
-    <Compile Include="Employee\Employee.cs" />
-    <Compile Include="Enums\Enums.cs" />
-    <Compile Include="Order\Order.cs" />
+    <Compile Include="Contracts\IEntity.cs" />
+    <Compile Include="Contracts\IFilter.cs" />
+    <Compile Include="Contracts\Repo\IBaseRepository.cs" />
+    <Compile Include="Contracts\Repo\ICreateRepository.cs" />
+    <Compile Include="Contracts\Repo\IDeleteRepository.cs" />
+    <Compile Include="Contracts\Repo\IReadRepository.cs" />
+    <Compile Include="Contracts\Repo\IUpdateRepository.cs" />
+    <Compile Include="Entities\Aquarium\Aquarium.cs" />
+    <Compile Include="Entities\Contract\Contract.cs" />
+    <Compile Include="Entities\Employee\Employee.cs" />
+    <Compile Include="Entities\Enums\Enums.cs" />
+    <Compile Include="Entities\Filter\Filter.cs" />
+    <Compile Include="Entities\Order\Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Region\City.cs" />
-    <Compile Include="Region\Region.cs" />
-    <Compile Include="User\Role.cs" />
-    <Compile Include="User\User.cs" />
+    <Compile Include="Entities\Region\City.cs" />
+    <Compile Include="Entities\Region\Region.cs" />
+    <Compile Include="Entities\User\Role.cs" />
+    <Compile Include="Entities\User\User.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
