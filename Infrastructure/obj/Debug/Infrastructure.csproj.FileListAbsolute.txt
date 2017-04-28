@@ -2,3 +2,4 @@ C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Infrastructure\bin\Debug\Infrastruc
 C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Infrastructure\bin\Debug\Infrastructure.pdb
 C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Infrastructure\obj\Debug\Infrastructure.dll
 C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache

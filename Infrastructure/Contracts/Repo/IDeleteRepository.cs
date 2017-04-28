@@ -1,7 +1,7 @@
 ﻿
 namespace Infrastructure.Contracts.Repo
 {
-    interface IDeleteRepository<TEntity> where TEntity : IEntity
+    public interface IDeleteRepository<IEntity>
     {
         void Delete(int Id);
     }

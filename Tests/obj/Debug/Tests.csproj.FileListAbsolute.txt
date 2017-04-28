@@ -1,0 +1,6 @@
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Tests\bin\Debug\Tests.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Tests\bin\Debug\Tests.pdb
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Tests\obj\Debug\Tests.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\Tests\obj\Debug\Tests.pdb

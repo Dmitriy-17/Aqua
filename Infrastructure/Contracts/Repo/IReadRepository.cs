@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Infrastructure.Contracts.Repo
 {
-    interface IReadRepository<TEntity, IFilter> where TEntity : IEntity
+    public interface IReadRepository<IEntity>
     {
-        TEntity GetById(int id);
-        IEnumerable<TEntity> GetAll(Func<IFilter, bool> predicate = null);
-        TEntity GetFirstOfDefault(Func<IFilter, bool> predicate = null);
+        Task<IEntity> GetById(int id);
+        Task<IEnumerable<IEntity>> GetAll(Func<IFilter, bool> predicate = null);
+        IEntity GetFirstOfDefault(Func<IFilter, bool> predicate = null);
     }
 }

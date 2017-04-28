@@ -10,5 +10,7 @@ namespace Infrastructure.Entities.Contract
     public class Contract : IEntity
     {
         public int Id { get; set; }
+        public string Name { get; set; }
+
     }
 }

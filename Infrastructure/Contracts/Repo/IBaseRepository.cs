@@ -1,7 +1,7 @@
 ﻿
 namespace Infrastructure.Contracts.Repo
 {
-    interface IBaseRepository
+    public interface IBaseRepository
     {
     }
 }

@@ -1,8 +1,8 @@
 ﻿
 namespace Infrastructure.Contracts.Repo
 {
-    interface IUpdateRepository<TEntity> where TEntity : IEntity
+    public interface IUpdateRepository<IEntity>
     {
-        void Updade(TEntity entity);
+        void Updade(IEntity entity);
     }
 }

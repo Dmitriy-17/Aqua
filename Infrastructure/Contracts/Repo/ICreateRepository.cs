@@ -1,8 +1,8 @@
 ﻿
 namespace Infrastructure.Contracts.Repo
 {
-    interface ICreateRepository<TEntity> where TEntity : IEntity
+    public interface ICreateRepository<IEntity> 
     {
-        void Create(TEntity entity);
+        void Create(IEntity entity);
     }
 }

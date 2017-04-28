@@ -1,7 +1,7 @@
 ﻿
 namespace Infrastructure.Contracts
 {
-    interface IFilter
+    public interface IFilter
     {
     }
 }

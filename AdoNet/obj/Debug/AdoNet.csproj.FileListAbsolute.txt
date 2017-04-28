@@ -1,0 +1,12 @@
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\AdoNet.dll.config
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\AdoNet.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\EntityFramework.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\Infrastructure.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\Infrastructure.pdb
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\EntityFramework.xml
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\obj\Debug\AdoNet.dll
+C:\Users\dlopushanskyi\Documents\GitHub\Aqua\AdoNet\obj\Debug\AdoNet.pdb
